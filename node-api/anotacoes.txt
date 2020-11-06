@@ -1,0 +1,3 @@
+- anotações node 
+
+> express = micro framework que auxilia no gerenciamento das rotas e views
